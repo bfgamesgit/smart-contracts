@@ -1,1 +1,2 @@
-# The repository contains smart contracts of BFG project
+# Smart Contracts
+The repository contains smart contracts of BFG project
